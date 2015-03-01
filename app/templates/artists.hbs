@@ -1,1 +1,13 @@
+<div class="ui list">
+  {{#each artist in model}}
+    <div class="item">
+      <div class="content">
+        <div class="description">
+          {{artist.name}}
+        </div>
+      </div>
+    </div>
+  {{/each}}
+</div>
+
 {{outlet}}
