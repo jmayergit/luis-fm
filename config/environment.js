@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'luis-fm',
     environment: environment,
-    baseURL: '/',
+    baseURL: '/discover',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
