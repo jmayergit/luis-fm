@@ -34,6 +34,7 @@
     "ember-export-application-global": "^1.0.2",
     "ember-localstorage-adapter": "file:ember-localstorage-adapter",
     "express": "^4.8.5",
-    "glob": "^4.0.5"
+    "glob": "^4.0.5",
+    "semantic-ui-ember": "0.0.1-rc.6"
   }
 }
